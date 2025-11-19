@@ -8,4 +8,14 @@ When I'm not on the clock, I enjoy working on 💻 side projects, 🥘 cooking, 
 
 🐯🎓 RIT '18 - **Networking and Systems Administration** | Software Engineering
 
-[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbillow)](https://github.com/mbillow)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mbillow&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mbillow&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mbillow&show_icons=true" />
+</picture>
